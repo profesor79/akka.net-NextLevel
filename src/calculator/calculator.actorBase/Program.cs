@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace calculator.base
+namespace calculator.actorbase
 {
     class Program
     {

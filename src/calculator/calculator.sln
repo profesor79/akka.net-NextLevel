@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 15
 VisualStudioVersion = 15.0.26124.0
 MinimumVisualStudioVersion = 15.0.26124.0
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "calculator.base", "calculator.base\calculator.base.csproj", "{AB8A4DE0-971D-41DF-AC33-D9ABC5764992}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "calculator.base", "calculator.actorBase\calculator.actorBase.csproj", "{AB8A4DE0-971D-41DF-AC33-D9ABC5764992}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "calculator.tests", "calculator.tests\calculator.tests.csproj", "{F85A6B48-95B4-45FF-9CED-AD0EF32E496B}"
 EndProject
